@@ -1,0 +1,2 @@
+# lpcxpresso55s69_i2c_master_write_and_read_to_rtc
+lpcxpresso55s69_i2c_master_write_and_read_to_rtc
